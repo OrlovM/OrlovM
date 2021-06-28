@@ -1,5 +1,8 @@
 ### Hi, I'm Mikhail
 
+I'm golang developer from Russia.
+
+
 ### Contact me
  - Via email: [orlov@email.com](mailto:orlov@email.com)
  - In Telegram: [@OrlovM](https://t.me/OrlovM)
