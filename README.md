@@ -7,7 +7,7 @@ I'm golang developer from Russia.
  - Via email: [orlov@email.com](mailto:orlov@email.com)
  - In Telegram: [@OrlovM](https://t.me/OrlovM)
 
-<a href="https://github.com/OrlovM"><img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=OrlovM&show_icons=true&hide_border=true&hide_title=true&hide_rank=true" /></a>
+<a href="https://github.com/OrlovM"><img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=OrlovM&show_icons=true&hide_border=true&hide_title=true&hide_rank=true&theme=graywhite" /></a>
 <!--
 **OrlovM/OrlovM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
