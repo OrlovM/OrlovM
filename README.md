@@ -1,7 +1,7 @@
 ### Hi, I'm Mikhail
 
-I'm golang developer from Russia.
-I am interested in open source and have been involved in several projects.
+I'm golang developer from Russia.  
+I am interested in open source and have been involved in several projects.  
 I am currently looking for a developer position where I can grow professionally.
 
 ### Contact me
