@@ -2,7 +2,7 @@
 
 I'm golang developer from Russia.  
 I am interested in open source and have been involved in several projects.  
-I am currently looking for a developer position where I can grow professionally.
+I am currently looking for a softaware developer position.
 
 ### Contact me
  - Via email: [orlov@email.com](mailto:orlov@email.com)
