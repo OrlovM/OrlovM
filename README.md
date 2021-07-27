@@ -4,6 +4,8 @@ I'm golang developer from Russia.
 I am interested in open source and have been involved in several projects.  
 I am currently looking for a softaware developer position.
 
+[Click here to download my CV](https://github.com/OrlovM/OrlovM/raw/main/CV%20Mikhail%20Orlov.pdf)
+
 ### Contact me
  - Via email: [orlov@email.com](mailto:orlov@email.com)
  - In Telegram: [@OrlovM](https://t.me/OrlovM)
