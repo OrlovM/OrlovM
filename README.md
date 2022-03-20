@@ -1,6 +1,6 @@
 ### Hi, I'm Mikhail
 
-I'm golang developer from Russia.  
+
 
 ### Contact me
  - Via email: [orlov@email.com](mailto:orlov@email.com)
