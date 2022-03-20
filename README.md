@@ -1,6 +1,12 @@
 ### Hi, I'm Mikhail
 
+I'm Go developer.
 
+I am willing to relocate somewhere outside Russia at the moment.  
+So I am looking for a new job.  
+I would be glad to consider any offer.
+
+[Click here to download my CV](https://github.com/OrlovM/OrlovM/raw/main/CV%20Mikhail%20Orlov.pdf)
 
 ### Contact me
  - Via email: [orlov@email.com](mailto:orlov@email.com)
